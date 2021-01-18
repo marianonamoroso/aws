@@ -1,5 +1,5 @@
 # AWS Certified Cloud Practitioner
-<h3>AWS Preparation</h3> <br>
+<h3>AWS CCP</h3> <br>
 This repository contains my trainings and exercises carried on preparation for AWS Certified Cloud Practitioner.
 <table>
   <tr>
