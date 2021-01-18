@@ -24,7 +24,7 @@ This repository contains my trainings and exercises carried on preparation for A
    <tr>
     <td>03</td>
     <td>AWS CCP Map</td>
-    <td>N/A</td>
-    <td>Pending</td>
+    <td>JPG</td>
+    <td>Done</td>
   </tr>
 </table> 
