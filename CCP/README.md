@@ -15,9 +15,14 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>https://www.aws.training</td>
     <td>Done</td>
    </tr>
-   
    <tr>
     <td>02</td>
+    <td>AWS CCP Map</td>
+    <td>N/A</td>
+    <td>Done</td>
+  </tr>   
+   <tr>
+    <td>03</td>
     <td>AWS CCP Map</td>
     <td>N/A</td>
     <td>Pending</td>
