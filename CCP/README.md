@@ -18,7 +18,7 @@ This repository contains my trainings and exercises carried on preparation for A
    <tr>
     <td>02</td>
     <td>AWS CCP Summary</td>
-    <td>AWS-Cloud-Practitioner.pdf</td>
+    <td>PDF</td>
     <td>Done</td>
   </tr>   
    <tr>
