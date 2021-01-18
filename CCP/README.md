@@ -14,9 +14,9 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>AWS Cloud Practitioner Essentials</td>
     <td>https://www.aws.training</td>
     <td>Done</td>
-  </tr>
-  
-    <tr>
+   </tr>
+   
+   <tr>
     <td>02</td>
     <td>CCP Map</td>
     <td>N/A</td>
