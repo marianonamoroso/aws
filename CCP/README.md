@@ -18,7 +18,7 @@ This repository contains my trainings and exercises carried on preparation for A
    <tr>
     <td>02</td>
     <td>AWS CCP Summary</td>
-    <td>https://github.com/marianonamoroso/AWS/raw/main/CCP/AWS%20Cloud%20Practitioner%20Essentials.pdf</td>
+    <td>/AWS_Cloud_Practitioner_Essentials.pdf</td>
     <td>Done</td>
   </tr>   
    <tr>
