@@ -18,8 +18,8 @@ This repository contains my trainings and exercises carried on preparation for A
    
    <tr>
     <td>02</td>
-    <td>CCP Map</td>
+    <td>AWS CCP Map</td>
     <td>N/A</td>
-    <td>Done</td>
+    <td>Pending</td>
   </tr>
 </table> 
