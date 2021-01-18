@@ -4,8 +4,8 @@ This repository contains my trainings and exercises carried on preparation for A
 <table>
   <tr>
     <th>Number</th>
-    <th>Course</th>
-    <th>Link</th>
+    <th>Name</th>
+    <th>Resource</th>
     <th>Status</th>
   </tr>
   
