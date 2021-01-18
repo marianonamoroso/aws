@@ -17,7 +17,7 @@ This repository contains my trainings and exercises carried on preparation for A
    </tr>
    <tr>
     <td>02</td>
-    <td>AWS CCP Map</td>
+    <td>AWS CCP Summary</td>
     <td>N/A</td>
     <td>Done</td>
   </tr>   
