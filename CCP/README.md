@@ -27,4 +27,10 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>JPG</td>
     <td>Done</td>
   </tr>
+     <tr>
+    <td>04</td>
+    <td>AWS CCP Practice Tests</td>
+    <td>https://www.whizlabs.com/aws-certified-cloud-practitioner/practice-tests/</td>
+    <td>Pending</td>
+  </tr>
 </table> 
