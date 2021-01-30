@@ -13,7 +13,7 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>01</td>
     <td>AWS Certified Solutions Architect - Associate 2020</td>
     <td>https://www.youtube.com/watch?v=Ia-UEYYR44s</td>
-    <td>Pending</td>
+    <td>Done</td>
    </tr>
    <tr>
   </tr>
