@@ -1,6 +1,6 @@
 
 # AWS Certified Solutions Architect - Associate
-<h3>AWS CSAA</h3> <br>
+<h3>AWS SAA</h3> <br>
 This repository contains my trainings and exercises carried on preparation for AWS Certified Solutions Architect - Associate.
 <table>
   <tr>
