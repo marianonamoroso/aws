@@ -11,7 +11,7 @@ This repository contains my trainings and exercises carried on preparation for A
   <tr>
     <td>01</td>
     <td>AWS Certified Cloud Practitioner</td>
-    <td>Pending</td>
+    <td>Done</td>
   </tr>
     <tr>
     <td>02</td>
