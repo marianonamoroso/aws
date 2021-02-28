@@ -16,6 +16,14 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>https://www.youtube.com/watch?v=Ia-UEYYR44s</td>
     <td>Done</td>
    </tr>
+    <tr>
+    <td>02</td>
+    <td>AWS Certified Solutions Architect (SAA-C02)</td>
+    <td>https://learn.cantrill.io/</td>
+    <td>Pending</td>
+   </tr>
    <tr>
   </tr>
 </table> 
+
+
