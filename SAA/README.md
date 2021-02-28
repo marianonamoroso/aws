@@ -22,8 +22,6 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>https://learn.cantrill.io/</td>
     <td>Pending</td>
    </tr>
-   <tr>
-  </tr>
 </table> 
 
 
