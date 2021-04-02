@@ -16,7 +16,7 @@ This repository contains my trainings and exercises carried on preparation for A
     <tr>
     <td>02</td>
     <td>AWS Certified Solutions Architect - Associate</td>
-    <td>Pending</td>
+    <td>Done</td>
   </tr>
 </table> 
 
