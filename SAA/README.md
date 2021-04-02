@@ -20,7 +20,13 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>02</td>
     <td>AWS Certified Solutions Architect (SAA-C02)</td>
     <td>https://learn.cantrill.io</td>
-    <td>Pending</td>
+    <td>Done</td>
+   </tr>
+    <tr>
+    <td>03</td>
+    <td>AWS Certified Solutions Architect Associate Practice Exams 2021</td>
+    <td>https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/</td>
+    <td>Done</td>
    </tr>
 </table> 
 
