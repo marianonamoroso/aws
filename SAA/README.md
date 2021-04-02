@@ -24,7 +24,7 @@ This repository contains my trainings and exercises carried on preparation for A
    </tr>
     <tr>
     <td>03</td>
-    <td>AWS Certified Solutions Architect Associate Practice Exams 2021</td>
+    <td>Tutorials Dojo - AWS Certified Solutions Architect Associate Practice Exams</td>
     <td>https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/</td>
     <td>Done</td>
    </tr>
