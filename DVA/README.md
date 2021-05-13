@@ -1,6 +1,6 @@
 
 # AWS Certified Developer - Associate
-<h3>AWS SAA</h3> <br>
+<h3>AWS DVA</h3> <br>
 This repository contains my trainings and exercises carried on preparation for AWS Certified Developer - Associate.
 <table>
   <tr>
