@@ -13,10 +13,16 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>AWS Certified Cloud Practitioner</td>
     <td>Done</td>
   </tr>
-    <tr>
+  <tr>
     <td>02</td>
     <td>AWS Certified Solutions Architect - Associate</td>
     <td>Done</td>
+  </tr>
+  
+  <tr>
+    <td>03</td>
+    <td>AWS Certified Developer - Associate</td>
+    <td>Pending</td>
   </tr>
 </table> 
 
