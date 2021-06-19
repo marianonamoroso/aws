@@ -20,19 +20,19 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>02</td>
     <td>Stephane Maarek - Practice the AWS Certified Developer Exam</td>
     <td>https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/</td>
-    <td>Pending</td>
+    <td>Done</td>
    </tr>
    <tr>
     <td>03</td>
     <td>Digital Cloud - AWS Certified Developer Associate Practice Exams</td>
     <td>https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/</td>
-    <td>Pending</td>
+    <td>Done</td>
    </tr>
     <tr>
     <td>04</td>
     <td>Tutorials Dojo - AWS Certified Developer Associate Practice Exams</td>
     <td>https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/</td>
-    <td>Pending</td>
+    <td>Done</td>
    </tr>
 </table> 
 
