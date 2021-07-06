@@ -14,7 +14,7 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>01</td>
     <td>Stephane Maarek - AWS Certified SysOps Administrator Associate</td>
     <td>https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/</td>
-    <td>Pending</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>02</td>
@@ -34,7 +34,6 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/</td>
     <td>Pending</td>
    </tr>
-
 </table> 
 
 
