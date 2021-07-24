@@ -28,7 +28,7 @@ This repository contains my trainings and exercises carried on preparation for A
   <tr>
     <td>04</td>
     <td>AWS Certified SysOps - Associate</td>
-    <td>Pending</td>
+    <td>Done</td>
   </tr>
 </table> 
 
