@@ -20,19 +20,19 @@ This repository contains my trainings and exercises carried on preparation for A
     <td>02</td>
     <td>Whizlabs - Practice the AWS Certified Developer Exam</td>
     <td>https://www.whizlabs.com/aws-sysops-administrator-associate/practice-tests/</td>
-    <td>Pending</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>03</td>
     <td>Digital Cloud - AWS Certified SysOps Administrator Associate Practice Exams</td>
     <td>https://digitalcloud.training/courses/aws-certified-sysops-administrator-associate-practice-exams/</td>
-    <td>Pending</td>
+    <td>Done</td>
    </tr>
    <tr>
     <td>04</td>
     <td>Tutorials Dojo - AWS Certified SysOps Administrator Associate Practice Exams</td>
     <td>https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/</td>
-    <td>Pending</td>
+    <td>Done</td>
    </tr>
 </table> 
 
